@@ -24,6 +24,7 @@
     <Compile Include="EmbedFix.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="config.json" />
     <Content Include="README.md" />
   </ItemGroup>
