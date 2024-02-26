@@ -1,5 +1,6 @@
 This project uses https://commons.wikimedia.org/wiki/File:Source_code_project_1171.svg as base for its icon.
 
+Requires python 3.9 or newer
 Add a config.json file to your installation folder.
 ```
 {
