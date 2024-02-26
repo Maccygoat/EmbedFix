@@ -1,5 +1,5 @@
 
-import discord, discord.ui, requests, re, json, random, time, logging, uuid
+import discord, discord.ui, json, random, time, logging, uuid
 from discord.ext import commands
 from discord import default_permissions
 from datetime import datetime

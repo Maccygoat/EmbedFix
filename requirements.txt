@@ -1,7 +1,6 @@
 ###### Requirements without Version Specifiers ######
 discord
 discord.ui
-json
-random
-time
+py-cord
+discord-py
 #
