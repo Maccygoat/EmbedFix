@@ -1,4 +1,4 @@
-This project is inspired, but not endoresd by https://github.com/bman46/InstagramEmbedDiscordBot
+This project uses https://commons.wikimedia.org/wiki/File:Source_code_project_1171.svg as base for its icon.
 
 Add a config.json file to your installation folder.
 ```
@@ -30,9 +30,9 @@ Add a config.json file to your installation folder.
   "AllowedChannels": [ "ID", "ID" ],
   "OwnerID": "ID",
   "TestGuildID": "ID",
-  "DMErrors": "true/false",
-  "DisableTitle": false,
-  "EnableDeleteButton": true
+  "DMErrors": true/false,
+  "DisableTitle": true/false,
+  "EnableDeleteButton": true/false
 }
 ```
 

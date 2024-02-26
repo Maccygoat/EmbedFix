@@ -26,6 +26,8 @@
   <ItemGroup>
     <Content Include=".gitignore" />
     <Content Include="config.json" />
+    <Content Include="original_authors.json" />
+    <Content Include="original_messages.json" />
     <Content Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
